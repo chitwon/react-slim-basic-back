@@ -1,5 +1,5 @@
 <?php
-// Pass through CORS for local host dev
+// No brainer pass through CORS for local host dev
 if (true) {
     header('Access-Control-Allow-Origin: *');
     header('Access-Control-Allow-Methods: GET, POST, PATCH, PUT, DELETE, OPTIONS');
