@@ -20,7 +20,11 @@ This slim PHP app is a REST backend with protected routes that works with the fr
   
 # How I use it for this demo
 
-If you use this as a starting point for your own app, you can keep the token exchanging pretty much the way it is here. To demonstrate protected routes, I have set up a simple procedure to retrieve student homework from the database. (I developed this for a student management app). You could do something similar rather easily. In the app I protect routes through SLIM's middle wear by appending the route with ->add($checkToken) and define the $checkToken function in the file \src\middleware.php. For that route to work, the front end needs to send the appropriate token and email for verification. Currently only POST routes are protected. 
+If you use this as a starting point for your own app, you can keep the token exchanging pretty much the way it is here. To demonstrate protected routes, I have set up a simple procedure to retrieve student homework from the database. (I developed this for a student management app). You could do something similar rather easily. In the app I protect routes through SLIM's middle wear by appending the route with 
+
+->add($checkToken) 
+
+and define the $checkToken function in the file \src\middleware.php. For that route to work, the front end needs to send the appropriate token and email for verification. Currently only POST routes are protected. 
 
 
 # SQL stuff...
