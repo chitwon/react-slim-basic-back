@@ -1,0 +1,4 @@
+HTTP/1.1 200 OK
+Content-Type: application/json;charset=utf-8
+
+{"0":"MathCart Google Auth Object","1":"ya29.Gl14Bu3uWG6DoPS7HQ1qmmdLLLX06tf2hgmK246qCXyW3EazuWrW-oDu6GtJ09jIttLaONkjZCv68i2dVq4994c-5EnF6x1n-cV0V4u6EZULGj1LfX4YjUg_Eu9qA5Y","2":3599,"userInfo":{"email":"peter.emanuele@gmail.com","familyName":"Emanuele","gender":"female","givenName":"Peter","hd":null,"id":"105929822028167342906","link":"https:\/\/plus.google.com\/105929822028167342906","locale":"en","name":"Peter Emanuele","picture":"https:\/\/lh5.googleusercontent.com\/-40RQCiIGlGo\/AAAAAAAAAAI\/AAAAAAAAAMk\/XlTx-YCHoCs\/photo.jpg","verifiedEmail":true},"mcToken":"MC-T-def28f98dff33c0eebd357faa75fb20a4597d177a8b6545a788d11f7624ba414fa3eb8f15d6c5a48968bad097db8e02e4b0c77ee9021cd923b4a40c17e806d55","3":"2018-12-20 09:40:06","4":"peter.emanuele@gmail.com"}
