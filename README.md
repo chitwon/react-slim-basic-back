@@ -2,7 +2,7 @@
 
   This is a SLIM PHP app that can work as a backend to a repo I created for a React front end with basic protected routes using google login. 
   
-  Front end repo found here https://github.com/chitwon/react-slim-basic-back
+  Front end repo found here https://github.com/chitwon/react-slim-basic-front
   
 # What this app does? 
 
